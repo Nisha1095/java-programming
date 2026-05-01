@@ -9,5 +9,7 @@ Topics Covered:
           First Java program.
 🔹 Day 2: Variables,Data Types,Operators and Expressions.
 🔹 Day 3: Control Statements and Loops.
+🔹 Day 4: Input types in Java and String class.
+🔹 Day 5: Methods using Java.
 
          
