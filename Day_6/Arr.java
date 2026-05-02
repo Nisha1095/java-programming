@@ -1,3 +1,4 @@
+import java.util.Arrays;
 class Arr{
     public static void main(String[] args) {
         int a[] = {1,2,3,4,5};
@@ -13,5 +14,7 @@ class Arr{
         {
             System.out.print(c[i]+" ");
         }
+        System.out.println("");
+        System.out.println(Arrays.toString(a)); //to print without for loop
     }
 }
