@@ -1,13 +1,13 @@
 import java.util.Scanner;
-class expense_tracker
+class Task_4
 {
     public static void main(String[] args) {
-        expense_tracker1 et1 = new expense_tracker1();
+        expense_tracker et1 = new expense_tracker();
         int total = et1.total_expense();
         System.out.println("Total expenses: "+total);
     }
 }
-class expense_tracker1
+class expense_tracker
 {
     int expense_name_choice;
     int total = 0;
@@ -18,7 +18,6 @@ class expense_tracker1
     int shopping_expense;
     int total_expense()
     {
-       System.out.println("Press 0 to exit or 1 to continue");
        Scanner s = new Scanner(System.in);
         do{ 
             System.out.println("Choose expense name");
