@@ -11,5 +11,6 @@ Topics Covered:
 🔹 Day 3: Control Statements and Loops.
 🔹 Day 4: Input types in Java and String class.
 🔹 Day 5: Methods using Java.
+🔹 Day 6: Arrays and ArrayList in Java with in built functions in it.
 
          
