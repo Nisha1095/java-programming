@@ -10,7 +10,9 @@ Topics Covered:
 🔹 Day 2: Variables,Data Types,Operators and Expressions.
 🔹 Day 3: Control Statements and Loops.
 🔹 Day 4: Input types in Java and String class.
-🔹 Day 5: Methods using Java.
+🔹 Day 5: Methods using Java and Constructors.
 🔹 Day 6: Arrays and ArrayList in Java with in built functions in it.
+🔹 Day 7: Random class and Math Library methods.
+
 
          
