@@ -13,6 +13,9 @@ Topics Covered:
 🔹 Day 5: Methods using Java and Constructors.
 🔹 Day 6: Arrays and ArrayList in Java with in built functions in it.
 🔹 Day 7: Random class and Math Library methods.
+🔹 Day 8:String Buffer and String Builder.
+🔹 Day 9:Exception handling.
+
 
 
          
